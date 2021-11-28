@@ -1,0 +1,19 @@
+{
+  "name": "sahibinden-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes sahibinden.com for motorcycle listings",
+  "main": "build/main.js",
+  "author": "Ege Guzeltirpan <guzeltirpan.ege@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jsdom": "^18.1.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/jsdom": "^16.2.13",
+    "@types/node": "^16.11.10",
+    "typescript": "^4.5.2"
+  }
+}
